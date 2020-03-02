@@ -1,0 +1,45 @@
+body {
+	background-color: #46587D;
+	font-family: 'Montserrat', 'Arial';
+}
+
+h1{
+	
+	color: #F8F8FF;		
+	font-family: 'Montserrat', 'Arial';
+	font-size: 3em;
+	font-weight: bold;
+	letter-spacing: 8px;
+	text-align: center;
+	text-shadow: 2px 2px 2px #24304F; 
+
+
+}
+
+.tarjetas{
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	margin: 50px;
+	margin-top: 100px;
+}
+
+img{
+	height: 300px;
+	margin: 20px;
+	border-radius: 30px;
+	box-shadow: 20px 30px 50px #24304F;
+	/*width: 200px;*/
+}
+
+
+.tarjetas__marte{
+}
+
+.tarjetas__jupiter{
+
+}
+
+.tarjetas__saturno{
+
+}
